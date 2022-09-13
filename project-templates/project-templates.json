@@ -1,0 +1,29 @@
+{
+  "name": "Default project templates",
+  "files": [
+    {
+      "name": "Host-pathogen interactions",
+      "type": "Example",
+      "description": "Alveolar macrophages were confronted with various species of fungi, including Aspergillus fumigatus and various Lichtheimia species, followed either directly by microscopy, or first by tissue fixation and fluorescence labeling, and then confocal microscopy.",
+      "size-info": "44 MB (download)",
+      "website": "https://www.jipipe.org/examples/",
+      "url": "https://figshare.com/ndownloader/files/36263622"
+    },
+    {
+      "name": "Bacterial growth measured in fluid droplets",
+      "type": "Example",
+      "description": "Microfluidic droplets of approximately 100 micrometer diameter were filled with a solution containing E. coli bacteria and the bacterial growth was observed via brightfield transmitted light microscopy. This JIPipe workflow finds the droplets that show bacterial growth.",
+      "size-info": "99 MB (download)",
+      "website": "https://www.jipipe.org/examples/",
+      "url": "https://figshare.com/ndownloader/files/36263613"
+    },
+    {
+      "name": "Kidney status check via glomeruli counting",
+      "type": "Example",
+      "description": "This pipeline analyzes light-sheet fluorescence microscopy of whole murine kidney data. These images were generated with staining specific to glomeruli, functional units of kidney. Here, we reduced the size of the image stack from 700 to 20, which non-workstation computers can process without issues.",
+      "size-info": "26 MB (download)",
+      "website": "https://www.jipipe.org/examples/",
+      "url": "https://figshare.com/ndownloader/files/36263616"
+    }
+  ]
+}

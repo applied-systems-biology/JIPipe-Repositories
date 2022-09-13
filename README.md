@@ -17,4 +17,5 @@ See the LICENSE file provided with the code for the full license.
 
 ## Project structure
 
-* Directory `EasyInstall` contains the default repositories for the "EasyInstall" feature
+* Directory `easyinstall` contains the default repositories for the "EasyInstall" feature
+* Directory `project-templates` contains the default repositories for downloadable project templates
