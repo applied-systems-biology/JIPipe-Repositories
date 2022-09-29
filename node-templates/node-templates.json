@@ -1,0 +1,21 @@
+{
+  "name": "Default project templates",
+  "files": [
+    {
+      "name": "Import images",
+      "type": "Template",
+      "description": "A group to read in the folder and subfolder structure, annotate them, and import the images. The input is the top folder, the output is the imported image(s).",
+      "size-info": "38 KB",
+      "website": "https://www.jipipe.org/tutorials/basic/annotations-1/",
+      "url": "https://www.jipipe.org/node-templates/import-images-from-directory.json"
+    },
+    {
+      "name": "Split channels: three channels, R, G, B order",
+      "type": "Template",
+      "description": "Split a 3-channel image into three separate grey-scale images, in the order of red, green and blue.",
+      "size-info": "38 KB",
+      "website": "https://www.jipipe.org/tutorials/basic/annotations-1/",
+      "url": "https://www.jipipe.org/node-templates/split-rgb-image-channels.json"
+    }
+  ]
+}

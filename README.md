@@ -19,3 +19,4 @@ See the LICENSE file provided with the code for the full license.
 
 * Directory `easyinstall` contains the default repositories for the "EasyInstall" feature
 * Directory `project-templates` contains the default repositories for downloadable project templates
+* Directory `node-templates` contains the default repositories for downloadable node templates
