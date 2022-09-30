@@ -7,7 +7,7 @@
       "description": "A group to read in the folder and subfolder structure, annotate them, and import the images. The input is the top folder, the output is the imported image(s).",
       "size-info": "38 KB",
       "website": "https://www.jipipe.org/tutorials/basic/annotations-1/",
-      "url": "https://www.jipipe.org/node-templates/import-images-from-directory.json"
+      "url": "https://github.com/applied-systems-biology/JIPipe-Repositories/raw/main/node-templates/tutorial/import-images-from-directory.json"
     },
     {
       "name": "Split channels: three channels, R, G, B order",
@@ -15,7 +15,15 @@
       "description": "Split a 3-channel image into three separate grey-scale images, in the order of red, green and blue.",
       "size-info": "4 KB",
       "website": "https://www.jipipe.org/tutorials/basic/annotations-1/",
-      "url": "https://www.jipipe.org/node-templates/split-rgb-image-channels.json"
+      "url": "https://github.com/applied-systems-biology/JIPipe-Repositories/raw/main/node-templates/tutorial/split-rgb-image-channels.json"
+    },
+    {
+      "name": "Basic blob finder",
+      "type": "Template",
+      "description": "Segmentation of bright/on/dark circular object, e.g. blobs or nuclei. Parameters accessible include the smoothing radius of Gaussian blur, thresholding method, and particle finder ranges of size and circularity.",
+      "size-info": "4 KB",
+      "website": "http://www.jipipe.org/tutorials/basic/compartments-2/",
+      "url": "https://github.com/applied-systems-biology/JIPipe-Repositories/raw/main/node-templates/tutorial/basic-blob-finder.json"
     }
   ]
 }
