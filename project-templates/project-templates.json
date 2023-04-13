@@ -34,7 +34,7 @@
       "description": "A small example showcasing how to utilize the Coloc2 nodes.",
       "size-info": "1 MB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.74.0/coloc2-example.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/coloc2-example.zip",
       "output-file": "coloc2-example.zip"
     },
     {
@@ -43,7 +43,7 @@
       "description": "A small example showcasing nodes for conversion between labels and ROIs and vice versa.",
       "size-info": "9 KB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.73.0/roi-labels-test.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/roi-labels-test.zip",
       "output-file": "roi-labels-conversion-example.zip"
     },
     {
@@ -52,7 +52,7 @@
       "description": "A small example showcasing how to utilize the Omnipose nodes.",
       "size-info": "234 KB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.74.0/omnipose-example.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/omnipose-example.zip",
       "output-file": "omnipose-example.zip"
     },
     {
@@ -61,7 +61,7 @@
       "description": "A small example showcasing how to utilize the Analyze skeleton 2D/3D node.",
       "size-info": "18 KB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.73.0/skeleton-example.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/skeleton-example.zip",
       "output-file": "skeleton-example.zip"
     },
     {
@@ -70,7 +70,7 @@
       "description": "A small example showcasing how to utilize the TrackMate nodes.",
       "size-info": "600 KB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.74.0/trackmate-example.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/trackmate-example.zip",
       "output-file": "trackmate-example.zip"
     },
     {
@@ -79,7 +79,7 @@
       "description": "A small example showcasing how to utilize the Trainable Weka Segmentation nodes.",
       "size-info": "31 KB (download)",
       "website": "https://www.jipipe.org/examples/",
-      "url": "https://www.jipipe.org/changelog/1.73.0/bird-weka-test.zip",
+      "url": "https://jipipe.hki-jena.de/wp-content/uploads/2023/02/bird-weka-test.zip",
       "output-file": "bird-weka-test.zip"
     }
   ]
