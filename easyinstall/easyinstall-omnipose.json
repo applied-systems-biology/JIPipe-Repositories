@@ -4,6 +4,7 @@
     {
       "name": "Omnipose CPU (Windows)",
       "install-dir": "easyinstall-omnipose-cpu",
+      "version": "0.2.1",
       "description": "Installs Omnipose for Windows. Please note that this version of Omnipose is not GPU-accelerated.",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-python3.8-omnipose0.2.1-cpu-win.zip",
       "operating-systems": ["windows"]
@@ -11,6 +12,7 @@
     {
       "name": "Omnipose GPU (Windows)",
       "install-dir": "easyinstall-omnipose-gpu",
+      "version": "0.2.1",
       "description": "Installs Omnipose for Windows. This version is based on Torch version 1.10.2 and utilizes CUDA for GPU acceleration.",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-python3.8-omnipose0.2.1-gpu-torch1.10.2-win.zip",
       "operating-systems": ["windows"]
@@ -18,6 +20,7 @@
     {
       "name": "Omnipose CPU (Linux)",
       "install-dir": "easyinstall-omnipose-cpu",
+      "version": "0.2.1",
       "description": "Installs Omnipose for Linux. Please note that this version of Omnipose is not GPU-accelerated. The package was generated on Ubuntu 22.04.",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-python3.8-omnipose0.2.1-cpu-linux-ubuntu22.04.tar.gz",
       "operating-systems": ["linux"]
@@ -25,6 +28,7 @@
     {
       "name": "Omnipose GPU (Linux)",
       "install-dir": "easyinstall-omnipose-gpu",
+      "version": "0.2.1",
       "description": "Installs Omnipose for Linux. This version is based on Torch version 1.10.2 and utilizes CUDA for GPU acceleration.",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-python3.8-omnipose0.2.1-gpu-torch1.10.2-linux-ubuntu22.04.tar.gz",
       "operating-systems": ["linux"]
@@ -32,6 +36,7 @@
     {
       "name": "Omnipose CPU (macOS, Intel)",
       "install-dir": "easyinstall-omnipose-cpu",
+      "version": "0.2.1",
       "description": "Installs Omnipose for macOS. Please note that this version of Omnipose is not GPU-accelerated. The package was generated on macOS 12.4 (Intel).",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-python3.8-omnipose0.2.1-cpu-macos-intel.tar.gz",
       "operating-systems": ["macos"]
