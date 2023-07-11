@@ -1,0 +1,12 @@
+{
+  "name": "JIPipe Python Adapter",
+  "files": [
+    {
+      "name": "JIPipe Python Adapter (development version)",
+      "install-dir": "easyinstall-lib-jipipe-python",
+      "description": "A Python package required by JIPipe's Python integration that interfaces between Python and JIPipe data types.",
+      "url": "https://github.com/applied-systems-biology/jipipe-python/archive/refs/heads/main.zip",
+      "operating-systems": ["windows", "linux", "macos"]
+    }
+  ]
+}
