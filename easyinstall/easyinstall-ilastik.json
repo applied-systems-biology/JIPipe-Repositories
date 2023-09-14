@@ -1,0 +1,29 @@
+{
+  "name": "Ilastik",
+  "files": [
+    {
+      "name": "Ilastik CPU (Windows)",
+      "install-dir": "easyinstall-ilastik-cpu",
+      "version": "1.4.0",
+      "description": "Installs Ilastik for Windows. Please note that this version of Ilastik is not GPU-accelerated.",
+      "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-win.zip",
+      "operating-systems": ["windows"]
+    },
+    {
+      "name": "Ilastik CPU (Linux)",
+      "install-dir": "easyinstall-ilastik-cpu",
+      "version": "1.4.0",
+      "description": "Installs Ilastik for Linux. Please note that this version of Ilastik is not GPU-accelerated.",
+      "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.zip",
+      "operating-systems": ["linux"]
+    },
+    {
+      "name": "Ilastik CPU (macOS)",
+      "install-dir": "easyinstall-ilastik-cpu",
+      "version": "1.4.0",
+      "description": "Installs Ilastik for macOS. Please note that this version of Ilastik is not GPU-accelerated.",
+      "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-macos.zip",
+      "operating-systems": ["macos"]
+    }
+  ]
+}
