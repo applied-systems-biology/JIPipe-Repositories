@@ -14,7 +14,13 @@
       "install-dir": "easyinstall-ilastik-cpu",
       "version": "1.4.0",
       "description": "Installs Ilastik for Linux. Please note that this version of Ilastik is not GPU-accelerated.",
-      "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.zip",
+      "url-multipart": [
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.tar.gz.00",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.tar.gz.01",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.tar.gz.02",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.tar.gz.03"
+      ],
+      "multipart-output-name": "easy-ilastik-1.4.0-linux.tar.gz",
       "operating-systems": ["linux"]
     },
     {
@@ -22,7 +28,12 @@
       "install-dir": "easyinstall-ilastik-cpu",
       "version": "1.4.0",
       "description": "Installs Ilastik for macOS. Please note that this version of Ilastik is not GPU-accelerated.",
-      "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-macos.zip",
+      "url-multipart": [
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-macos.tar.gz.00",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-macos.tar.gz.01",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-macos.tar.gz.02"
+      ],
+      "multipart-output-name": "easy-ilastik-1.4.0-macos.tar.gz",
       "operating-systems": ["macos"]
     }
   ]
