@@ -10,12 +10,43 @@
       "operating-systems": ["windows"]
     },
     {
+      "name": "Ilastik GPU (Windows)",
+      "install-dir": "easyinstall-ilastik-gpu",
+      "version": "1.4.0",
+      "description": "Installs Ilastik for Windows. This version of Ilastik supports GPU-acceleration.",
+      "url-multipart": [
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-win.zip.00",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-win.zip.01",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-win.zip.02"
+      ],
+      "multipart-output-name": "easy-ilastik-1.4.0-gpu-win.zip",
+      "operating-systems": ["windows"]
+    },
+    {
       "name": "Ilastik CPU (Linux)",
       "install-dir": "easyinstall-ilastik-cpu",
       "version": "1.4.0",
       "description": "Installs Ilastik for Linux. Please note that this version of Ilastik is not GPU-accelerated.",
       "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-linux.tar.gz",
       "operating-systems": ["linux"]
+    },
+    {
+      "name": "Ilastik GPU (Linux)",
+      "install-dir": "easyinstall-ilastik-gpu",
+      "version": "1.4.0",
+      "description": "Installs Ilastik for Linux. This version of Ilastik supports GPU-acceleration.",
+      "url-multipart": [
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.00",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.01",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.02",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.03",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.04",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.05",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.06",
+        "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.07"
+      ],
+      "multipart-output-name": "easy-ilastik-1.4.0-gpu-linux.tar.gz",
+      "operating-systems": ["windows"]
     },
     {
       "name": "Ilastik CPU (macOS)",
