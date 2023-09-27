@@ -46,7 +46,7 @@
         "https://github.com/applied-systems-biology/jipipe/releases/download/current/easy-ilastik-1.4.0-gpu-linux.tar.gz.07"
       ],
       "multipart-output-name": "easy-ilastik-1.4.0-gpu-linux.tar.gz",
-      "operating-systems": ["windows"]
+      "operating-systems": ["linux"]
     },
     {
       "name": "Ilastik CPU (macOS)",
