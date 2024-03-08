@@ -1,0 +1,145 @@
+[
+    {
+        "name": "JIPipe",
+        "version": "1.72.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.72.0/jipipe-full-1.72.0-linux.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.72.0/jipipe-full-1.72.0-win.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.72.0/JIPipe-1.72.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.73.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.73.0/jipipe-full-1.73.0-linux.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.73.0/jipipe-full-1.73.0-win.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.73.0/JIPipe-1.73.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.74.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.74.0/JIPipe-1.74.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.74.0/JIPipe-1.74.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.74.0/JIPipe-1.74.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.75.2",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.75.2/JIPipe-1.75.2-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.75.2/JIPipe-1.75.2-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.75.2/JIPipe-1.75.2.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.76.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.76.0/JIPipe-1.76.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.76.0/JIPipe-1.76.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.76.0/JIPipe-1.76.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.77.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.77.0/JIPipe-1.77.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.77.0/JIPipe-1.77.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.77.0/JIPipe-1.77.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.78.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.78.0/JIPipe-1.78.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.78.0/JIPipe-1.78.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.78.0/JIPipe-1.78.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.79.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.79.0/JIPipe-1.79.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.79.0/JIPipe-1.79.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.79.0/JIPipe-1.79.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.80.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.80.0/JIPipe-1.80.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.80.0/JIPipe-1.80.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.80.0/JIPipe-1.80.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "1.81.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.81.0/JIPipe-1.81.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.81.0/JIPipe-1.81.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.81.0/JIPipe-1.81.0.zip"
+        }
+    },
+    {
+        "name": "JIPipe",
+        "version": "2.0.0",
+        "download-full-linux": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-2.0.0/JIPipe-2.0.0-Prepackaged-Linux64.zip"
+        },
+        "download-full-windows": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-2.0.0/JIPipe-2.0.0-Prepackaged-Win64.zip"
+        },
+        "download-jar": {
+            "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-2.0.0/JIPipe-2.0.0.zip"
+        }
+    }
+] 
