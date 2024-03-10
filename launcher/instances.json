@@ -303,5 +303,18 @@
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-2.0.0/JIPipe-2.0.0.zip"
             }
         ]
+    },
+    {
+        "name": "JIPipe",
+        "version": "3.0.0",
+        "branch": "beta",
+        "downloads": [
+            {
+                "name": "Plugin",
+                "type": "JAR",
+                "operating-systems": [],
+                "url": "https://jipipe.hki-jena.de/downloads/snapshots/JIPipe-3.0.0.zip"
+            }
+        ]
     }
 ] 
