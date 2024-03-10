@@ -22,7 +22,14 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.72.0/JIPipe-1.72.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-72-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/commits/v1.72.0",
+            "summary": [
+                "* This is the first public release of JIPipe"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -47,7 +54,17 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/v1.73.0/JIPipe-1.73.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-73-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/commits/pom-jipipe-1.73.0",
+            "summary": [
+                "+ Integration of Trainable Weka Segmentation",
+                "+ New node 'Analyze skeleton 2D/3D'",
+                "+ New node 'Morphological skeletonize 3D'",
+                "+ Nodes for converting between ROI and labels"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -72,7 +89,29 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.74.0/JIPipe-1.74.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-74-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.74.0",
+            "summary": [
+                "+ New plugin manager",
+                "+ Easily install external tools with one click (Cellpose, Omnipose, Python, R)",
+                "+ TrackMate integration",
+                "+ Cellpose 2.x integration",
+                "+ Omnipose integration",
+                "+ Multiple nodes for image processing",
+                "+ ROI creation nodes",
+                "+ Integration of Coloc2",
+                "+ Additional table processing nodes",
+                "+ Redesigned plotting nodes",
+                "+ Nodes for general data processing",
+                "+ New expression functions",
+                "+ Node examples feature",
+                "+ Downloadable project templates",
+                "* Various UI enhancements",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -97,7 +136,17 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.75.2/JIPipe-1.75.2.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-75-2/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.75.2",
+            "summary": [
+                "+ New image processing nodes",
+                "+ New exporession functions",
+                "* Memory-related functions moved into a dedicated menu",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -122,7 +171,19 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.76.0/JIPipe-1.76.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-76-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.76.0",
+            "summary": [
+                "+ Various nodes now support annotations in expression processing",
+                "+ Nodes for drawing scale bars",
+                "+ Additional ROI processing nodes",
+                "+ Additional nodes for processing data tables",
+                "* Improved UX in graph editor",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -147,7 +208,17 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.77.0/JIPipe-1.77.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-77-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.77.0",
+            "summary": [
+                "+ Archive projects into a single ZIP (Project > Archive project ...)",
+                "+ Additional label processing nodes",
+                "+ Additional image processing nodes",
+                "* Fixed crash during startup"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -178,7 +249,24 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.78.0/JIPipe-1.78.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-78-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.78.0",
+            "summary": [
+                "* Redesigned node interface in graph editor",
+                "* Nodes are now more compact",
+                "* Zoom issues were fixed",
+                "+ Auto-muting/hiding edges to reduce visual noise",
+                "+ Graph editor toolbar at the left-hand side of the pipeline editor",
+                "+ Duplicate with inputs in graph editor",
+                "+ Rewire tool to quickly move multiple edges to different inputs/outputs",
+                "+ Update predecessor caches node",
+                "* UX improvements",
+                "+ Additional image processing nodes",
+                "* CLIJ2: nodes now de-allocate GPU images by default (fix memory issues)"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -209,7 +297,18 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.79.0/JIPipe-1.79.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-79-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.79.0",
+            "summary": [
+                "+ 3D view for the image viewer",
+                "+ Integration of '3D ImageJ Suite' as nodes",
+                "+ Filaments processing using a dedicated JIPipe data type",
+                "* CLIJ2: nodes now default to avoid allocating GPU images",
+                "+ Rewire tool was added to the toolbar"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -240,7 +339,29 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.80.0/JIPipe-1.80.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-80-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.80.0",
+            "summary": [
+                "+ Pipeline editor: new slots can now be created by dragging to the '+' button",
+                "* Redesigned external and adaptive parameter UI",
+                "+ Possibility to lock the size/position of nodes",
+                "+ Nodes can now be moved via arrow keys",
+                "+ Current graph editor tool is now displayed next to the cursor",
+                "* Improved run dialog UI",
+                "+ Button to quickly open compartments view",
+                "+ Cached data viewers: ability to update on parameter changes",
+                "+ Drawing graph annotations (replacing comment nodes)",
+                "+ Node for calculating pairwise 2D ROI statistics",
+                "+ Viewer for filaments data",
+                "+ Nodes for custom min/max thresholding",
+                "+ Nodes for merging hyperstacks",
+                "+ Additional table processing nodes",
+                "+ Nodes for creating and exporting 3D scenes (to DAE)",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -271,7 +392,29 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-1.81.0/JIPipe-1.81.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-1-81-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-1.81.0",
+            "summary": [
+                "* Redesigned paramter editor UI for better readability",
+                "* New node search implementation that is more reliable",
+                "+ Graph editor: 'Add node here' context menu entry",
+                "* Redesigned error/issue UI for better readability",
+                "+ Users can now jump to nodes that cause issues",
+                "+ Context menu for data table UI",
+                "* Improved expression editor UX",
+                "+ Script editor now allows external editing",
+                "+ Nodes for extracting information from OME images",
+                "+ Redesigned data export nodes using expressions",
+                "+ Project-wide user directories",
+                "* Python adapter was split off into a dedicated environment",
+                "+ XML/Text/JSON processing nodes",
+                "+ Create a text description of the pipeline (Project > Project report)",
+                "+ New expression functions",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -302,7 +445,22 @@
                 "operating-systems": [],
                 "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-2.0.0/JIPipe-2.0.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-2-0-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-2.0.0",
+            "summary": [
+                "+ Input manager to simplify the setup of iteration steps",
+                "+ Data tracing function to review predecessors and successors of a data item",
+                "+ Redesigned OMERO integration to use environments",
+                "* New/reorganized OMERO nodes",
+                "+ Nodes for filtering by iteration steps (multi-data filtering)",
+                "+ New image montage nodes",
+                "* UX improvements",
+                "* Java API was changed",
+                "* Bugfixes"
+            ]
+        }
     },
     {
         "name": "JIPipe",
@@ -315,6 +473,27 @@
                 "operating-systems": [],
                 "url": "https://jipipe.hki-jena.de/downloads/snapshots/JIPipe-3.0.0.zip"
             }
-        ]
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-3-0-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-3.0.0",
+            "summary": [
+                "+ Partitioning pipelines by function (runtime partitions)",
+                "+ Simplified creating loops via runtime partitions",
+                "* Design and icons were updated to a more modern style",
+                "* Redesigned pipeline editor sidebar",
+                "* Improved pipline editor node UX",
+                "+ Button to quickly open the project overview/settings",
+                "* Redesigned logging interface",
+                "+ New backup manager",
+                "* Redesigned project run interface",
+                "* Improved image viewer UX",
+                "* Fix filament visualization",
+                "+ First version of plugin for general image manipulation",
+                "* Improved various existing nodes",
+                "* Java API was changed",
+                "* Bugfixes"
+            ]
+        }
     }
 ] 
