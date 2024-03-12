@@ -1,4 +1,4 @@
 {
-    "launcher-linux": { "url": "https://github.com/applied-systems-biology/jipipe-launcher/releases/download/current/JIPipeLauncher.AppImage", "sha1": "abdf5c54601561cc3ba60a3284cf1f1b92c54df2" },
-    "installer-linux": { "url": "https://github.com/applied-systems-biology/jipipe-launcher/releases/download/current/JIPipeInstaller.AppImage", "sha1": "90dbfa8393ca99245bbc04f92abd48f0515a8e2f" }
+    "launcher": { "url": "https://github.com/applied-systems-biology/jipipe-launcher/releases/download/current/jipipe-launcher.jar", "sha1": "7adf52f1051fcc1c3e806277e16fddc090c5079f" },
+    "launcher-updater": { "url": "https://github.com/applied-systems-biology/jipipe-launcher/releases/download/current/jipipe-launcher-updater.jar", "sha1": "9e55dcc1033309b3d8e9b7a5d24db4d6857878e3" }
 }
