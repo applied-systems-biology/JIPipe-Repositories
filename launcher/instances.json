@@ -465,13 +465,79 @@
     {
         "name": "JIPipe",
         "version": "3.0.0",
-        "branch": "beta",
+        "branch": "stable",
         "downloads": [
             {
                 "name": "Plugin",
                 "type": "JAR",
                 "operating-systems": [],
-                "url": "https://jipipe.hki-jena.de/downloads/snapshots/JIPipe-3.0.0.zip"
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0.zip"
+            },
+            {
+                "name": "Minimal installation (1 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["windows"],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Minimal.zip"
+            },
+            {
+                "name": "Minimal installation (1 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["linux"],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Minimal.zip"
+            },
+            {
+                "name": "Minimal installation (1 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["macos"],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-macOS-Minimal.zip"
+            },
+            {
+                "name": "Full installation (3 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["windows"],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-CPU.zip"
+            },
+            {
+                "name": "Full installation (6 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["linux"],
+                "multipart-output-name": "JIPipe-3.0.0-Prepackaged-Linux64-Full-CPU.zip",
+                "url-multipart": [
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-CPU.zip.00",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-CPU.zip.01",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-CPU.zip.02"
+                ]
+            },
+            {
+                "name": "Full installation (3 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["macos"],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-macOS-Full.zip"
+            },
+            {
+                "name": "Full installation + GPU (11 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["windows"],
+                "multipart-output-name": "JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip",
+                "url-multipart": [
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip.00",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip.01",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip.02",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip.03",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Win64-Full-GPU.zip.04"
+                ]
+            },
+            {
+                "name": "Full installation + GPU (8 GB)",
+                "type": "FullPackage",
+                "operating-systems": ["linux"],
+                "multipart-output-name": "JIPipe-3.0.0-Prepackaged-Linux64-Full-GPU.zip",
+                "url-multipart": [
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-GPU.zip.00",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-GPU.zip.01",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-GPU.zip.02",
+                    "https://github.com/applied-systems-biology/jipipe/releases/download/pom-jipipe-3.0.0/JIPipe-3.0.0-Prepackaged-Linux64-Full-GPU.zip.03"
+                ]
             }
         ],
         "changelog": {
