@@ -561,5 +561,25 @@
                 "* Bugfixes"
             ]
         }
+    },
+    {
+        "name": "JIPipe",
+        "version": "4.0.0",
+        "branch": "snapshot",
+        "downloads": [
+            {
+                "name": "Plugin",
+                "type": "JAR",
+                "operating-systems": [],
+                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/JIPipe-4.0.0.zip"
+            }
+        ],
+        "changelog": {
+            "url": "https://jipipe.hki-jena.de/release/version-4-0-0/",
+            "url-dev": "https://github.com/applied-systems-biology/jipipe/tree/pom-jipipe-4.0.0",
+            "summary": [
+                "* Currently in development"
+            ]
+        }
     }
 ] 
