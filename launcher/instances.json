@@ -571,7 +571,7 @@
                 "name": "Plugin",
                 "type": "JAR",
                 "operating-systems": [],
-                "url": "https://github.com/applied-systems-biology/jipipe/releases/download/current/JIPipe-4.0.0.zip"
+                "url": "https://jipipe.hki-jena.de/nexus/repository/jipipe-releases/org/hkijena/jipipe_jar/4.0.0/jipipe_jar-4.0.0-SNAPSHOT_22052024.zip"
             }
         ],
         "changelog": {
